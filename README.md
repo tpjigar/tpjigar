@@ -21,7 +21,7 @@ Here are some of the programming languages and technologies I work with:
 
 - **Programming Languages:** [PHP](https://www.php.net), [Python](https://www.python.org), [JavaScript](https://www.w3schools.com/js/)
 - **Frontend Development:** [HTML5](https://www.geeksforgeeks.org/html5-introduction), CSS3 ([TailwindCSS](https://tailwindcss.com/)), JavaScript ([ReactJS](https://react.dev), [VueJS](https://vuejs.org), [NextJS](https://nextjs.org), [LiveWire](https://laravel-livewire.com))
-- **Backend Development:** [NodeJS](https://nodejs.org/), [Laravel](https://laravel.com)
+- **Backend Development:** [NodeJS](https://nodejs.org/), [Laravel](https://laravel.com), [Wordpress](https://wordpress.org)
 - **Database:** [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com)
 - **DevOps & Cloud:** [Docker](https://www.docker.com), [AWS](https://aws.amazon.com)
 - **Other Skills:** [GitHub](https://github.com/tpjigar), RESTful APIs, [GraphQL](https://graphql.org)
