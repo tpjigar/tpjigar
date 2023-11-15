@@ -12,7 +12,7 @@ I'm Jigar Patel, A passionate Full-Stack web developer from India. Welcome to my
 - 🌱 I’m currently learning Artificial Intelligence.
 - 👯 I’m looking to contributing Open-source projects related to Multi-tenancy and Roles, Persmissions.
 - 💬 Ask me about PHP, Laravel, RestAPI, Multi-tenancy, SAAS, MVP startup products.
-- 📫 How to reach me: tp.jigar@gmail.com.
+- 📫 How to reach me: tp.jigar@gmail.com, jigar24.patel@gmail.com
 
 <!-- Technologies -->
 ## Technologies
